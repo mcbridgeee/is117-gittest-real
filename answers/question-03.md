@@ -1,0 +1,1 @@
+a movable pointer to a line of commits.  so i can make changes without messing up my main until i merge
