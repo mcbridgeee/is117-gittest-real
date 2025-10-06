@@ -1,0 +1,1 @@
+Shows what’s changed and what’s staged vs. unstaged, plus which branch I’m on. It doesn’t modify anything—just reports repository state.
